@@ -1,3 +1,2 @@
-＃myGit
-
+#myGit
 this is my first git
